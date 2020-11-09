@@ -1,0 +1,9 @@
+package MethodOverloadingandOverridding;
+
+public class Aclass {
+
+	void output(){
+		System.out.println("it is A class");
+	}
+	
+}

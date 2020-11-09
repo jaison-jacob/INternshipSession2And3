@@ -1,0 +1,16 @@
+package StringMethods;
+
+public class StringMethods {
+
+	public static void main(String arg[]){
+		
+		String str1 = "jaison";
+		String str2 = "jai";
+		
+		//length method
+		
+		System.out.println("String length is : "+str1.length());
+		
+	}
+	
+}

@@ -1,0 +1,16 @@
+package MethodOverloadingandOverridding;
+
+public class MethodOveridingMainclass {
+
+	public static void main(String arg[]){
+		
+		Bclass ex =new Bclass();
+		
+		System.out.println("method overridding : ");
+		 ex.output();
+		 
+		 ex.outputA();
+		
+	}
+	
+}

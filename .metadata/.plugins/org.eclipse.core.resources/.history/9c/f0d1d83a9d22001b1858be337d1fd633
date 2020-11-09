@@ -1,0 +1,12 @@
+package MethodOverloadingandOverridding;
+
+public class Overloadmainclass {
+
+	public static void main(String arg[]){
+		
+		Overloadclass ex = new Overloadclass();
+		int result = 
+		
+	}
+	
+}
